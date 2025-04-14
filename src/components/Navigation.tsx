@@ -31,7 +31,7 @@ const Navigation = () => {
               transition={{ duration: 0.3 }}
             >
               <img
-                src="/lovable-uploads/pic.png"
+                src="/lovable-uploads/me.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
