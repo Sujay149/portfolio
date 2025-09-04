@@ -62,13 +62,13 @@ const Index = () => {
             className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 rounded-full overflow-hidden shadow-lg cursor-pointer border-4 border-white dark:border-gray-800"
           >
             <img
-              src="/lovable-uploads/me.jpg"
+              src="/images/me.jpg"
               alt="Sujay's Profile"
               className="w-full h-full object-cover"
               loading="lazy"
               onError={(e) => {
                 const target = e.target as HTMLImageElement;
-                target.src = "/lovable-uploads/me.jpg";
+                target.src = "/images/me.jpg";
               }}
             />
           </motion.div>
@@ -145,7 +145,7 @@ const Index = () => {
             onClick={() => setShowImageModal(false)}
           >
             <motion.img
-              src="/lovable-uploads/me.jpg"
+              src="/images/me.jpg"
               alt="Expanded Sujay"
               initial={{ scale: 0.8 }}
               animate={{ scale: 1 }}

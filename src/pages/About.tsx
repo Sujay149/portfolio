@@ -36,7 +36,7 @@ const About = () => {
       period: "Oct 2024 - Dec 2024",
       description: "Developed and maintained a dynamic web application for students and educators. Utilized HTML, JavaScript, PHP, and SQL for responsive user interfaces and robust backends.",
       tags: ["HTML", "JavaScript", "PHP", "SQL"],
-      logo: "/lovable-uploads/school.png",
+      logo: "/images/school.png",
       url: "https://wonderkids.great-site.net/?i=1",
       codeUrl: "https://github.com/Sujay149/wonderkids"
     },
