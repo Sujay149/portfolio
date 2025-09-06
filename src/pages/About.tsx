@@ -31,6 +31,16 @@ const About = () => {
   // Experience data (unchanged but adjusted for consistency)
   const experience = [
     {
+      position: "Full-stack Development + AI&ML Intern",
+      company: "Asvix",
+      period: "June 2025 - Aug 2025",
+      description: "Developed and deployed MediBot-AI, a healthcare-focused web application that integrates AI-powered medical assistance, secure authentication, and payment gateway support. The platform enhances patient engagement by providing health insights, chatbot support, and smooth transactions with PhonePe integration.",
+tags: ["React", "Node.js", "MongoDB", "AI", "PhonePe API"],
+logo: "https://www.medibot-ai.com/logo.png",
+url: "https://www.medibot-ai.com",
+codeUrl: "https://github.com/Sujay149/Medibot"
+
+    }, {
       position: "Freelance Web Developer",
       company: "Wonderkids School Website",
       period: "Oct 2024 - Dec 2024",
@@ -39,26 +49,6 @@ const About = () => {
       logo: "/images/school.png",
       url: "https://wonderkids.great-site.net/?i=1",
       codeUrl: "https://github.com/Sujay149/wonderkids"
-    },
-    {
-      position: "Python Full-stack Intern",
-      company: "IDDT Blackbucks",
-      period: "May 2024 - Jul 2024",
-      description: "Developed a full-stack Notes-Taking Web Application using the Django framework. The app enables users to efficiently create, update, and delete personal notes with a focus on simplicity and user experience. Each note is stored with a timestamp.",
-      tags: ["Python", "Django"],
-      logo: "https://theblackbucks.com/images/logo.png",
-      url: "https://theblackbucks.com",
-      codeUrl: "https://github.com/Sujay149/notes-taking-app"
-    },
-    {
-      position: "Android Developer Virtual Internship",
-      company: "Google",
-      period: "Oct 2024 - Dec 2024",
-      description: "Gained hands-on experience in Android development using Kotlin and Java. Created a basic app using Android Studio.",
-      tags: ["Android", "Kotlin", "Java"],
-      logo: "https://tse2.mm.bing.net/th?id=OIP.TO1-Y7v3uO6iVwTznL1SAAHaFX&pid=Api&P=0&h=180",
-      url: "https://developers.google.com",
-      codeUrl: "https://github.com/Sujay1499/android-app"
     }
   ];
 

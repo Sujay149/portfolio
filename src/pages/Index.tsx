@@ -113,12 +113,12 @@ const Index = () => {
             >
               I also maintain projects like{" "}
               <a
-                href="https://signup-1499.web.app/"
+                href="https://medibot-ai/com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-black font-bold underline hover:opacity-100 transition"
               >
-                NueroHub
+                Medibot
               </a>
             </motion.p>
 

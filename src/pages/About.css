@@ -1,0 +1,51 @@
+.about-page {
+    font-family: sans-serif;
+    color: #111;
+  }
+  
+  .parallax-section {
+    background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb');
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .parallax-section .overlay {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 40px;
+    border-radius: 12px;
+    text-align: center;
+  }
+  
+  .parallax-section h1 {
+    font-size: 48px;
+    margin-bottom: 16px;
+    color: #000;
+  }
+  
+  .parallax-section p {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .main-content {
+    padding: 64px 32px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  section {
+    margin-bottom: 64px;
+  }
+  
+  section h2 {
+    font-size: 32px;
+    margin-bottom: 24px;
+  }
+  
